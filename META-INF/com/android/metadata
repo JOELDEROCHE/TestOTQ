@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:1954:43051,payload.bin:1954:506908244,payload_properties.txt:506910256:154,care_map.pb:717:1190,metadata:69:601           
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:1954:506908244,payload_properties.txt:506910256:154,care_map.pb:717:1190,metadata:69:601             
+ota-type=AB
+post-build=Android/dart_mx8mm/dart_mx8mm:11/RQ3A.210805.001.A1/eng.prj052.20220323.143047:userdebug/dev-keys
+post-build-incremental=eng.prj052.20220323.143047
+post-sdk-level=30
+post-security-patch-level=2021-08-05
+post-timestamp=1648045626
+pre-device=dart_mx8mm
